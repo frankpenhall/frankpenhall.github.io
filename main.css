@@ -1,0 +1,32 @@
+body {
+    background-color:#eeeded!important;
+}
+
+#profile-pic {
+    width:150px;
+    height:150px;
+    border-radius:30%;
+    margin-left:0%;
+    margin-right:auto;
+    object-fit:cover;
+    
+  }
+
+.carousel-item {
+    height: 32rem;
+    /* background:#777; */
+    /* color: white; */
+    /* position:relative; */
+    /* background-position: center; */
+    /* background-size: cover; */
+}
+
+.overlay-image {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-position:center;
+    background-size:cover;
+}
